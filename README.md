@@ -13,9 +13,6 @@ Run The app
 ### `npm start` or `yarn start`
 
 
-
-#### `npm run ios` or `yarn run ios`
-
 Like `npm start` / `yarn start`
 
 #### `npm run android` or `yarn run android`
